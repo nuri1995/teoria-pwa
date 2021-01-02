@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609608550591,
+  "timestamp": 1609609377042,
   "index": "/teoria-pwa/index.html",
   "assetGroups": [
     {
@@ -71,7 +71,7 @@
     "/teoria-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/teoria-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/teoria-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/teoria-pwa/index.html": "f2a71281e8c882d6eccbce369db69c5971827429",
+    "/teoria-pwa/index.html": "9648ee1269a7ec572eb030ce2bbab9119b39c257",
     "/teoria-pwa/main.65fe0f407005fb41f222.js": "048853771ac30b0f3fad18969acd69d6b285be68",
     "/teoria-pwa/manifest.webmanifest": "a6615284bee5acf66d01352507ae6e12ea8b13ea",
     "/teoria-pwa/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
